@@ -8,6 +8,12 @@ Ejemplo:
 
 ![Resultado lista_orden descendente](  Capturas /Int1_ordenBranch.png ) (Borrar los espacios)
 
+
+Lider:
+
+![Resultado lista_orden descendente](Capturas/LiderRama.png)
+![Resultado lista_orden descendente](Capturas/RamaCmbioTitulo.png)
+
 Integrante 1: 
 
 
