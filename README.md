@@ -12,7 +12,7 @@ Ejemplo:
 Lider:
 
 ![Resultado lista_orden descendente](Capturas/LiderRama.png)
-![Resultado lista_orden descendente](Capturas/RamaCmbioTitulo.png)
+![Resultado lista_orden descendente](Capturas/RamaCambioTitulo.png)
 
 Integrante 1: 
 
