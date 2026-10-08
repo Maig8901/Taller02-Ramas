@@ -35,7 +35,7 @@ public class PrimaryController {
         for (Cancion c : listaCanciones ) {
 
             HBox hb = new HBox(10);//hbox para ubicar info de cada cancion
-            Label lbp = new Label(c.getPosActual() + "");
+            Label lbp = new Label(c.getPosActual() + "");//numero posición de la canción
             lbp.setStyle("-fx-font-weight: bold;-fx-font-size: 40;");
             ImageView iv = new ImageView();
             try {
@@ -48,7 +48,7 @@ public class PrimaryController {
             Label lbT = new Label(c.getCantante() + " \n" + c.getTitulo());//titulo y cantante
             lbT.setStyle("-fx-font-weight: bold;-fx-font-size: 14;");
 
-            hb.getChildren().addAll(lbp, iv, lbT);//agregar al hbox
+            hb.getChildren().addAll(iv, lbT, lbp);//agregar al hbox
 
             hb.setOnMouseClicked(eh -> mostrarHistorial(c));//establecer el evento del click
             vbTop10.getChildren().add(hb);//agregar al vbox

@@ -23,3 +23,6 @@ Integrante 2:
 
 
 ![Resultado Artista](Capturas/int2_artistaBranch.jpeg)
+
+Integrante 3:
+![Resultado del cambio de número posición](Capturas/int3_numeroBranch.png)
